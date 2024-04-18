@@ -1,0 +1,5 @@
+pandas==2.1.1
+numpy
+openpyxl
+docxtpl~=0.16.7
+comtypes~=1.2.1
